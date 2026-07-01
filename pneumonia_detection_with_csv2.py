@@ -16,9 +16,9 @@ from huggingface_hub import hf_hub_download
 # CONFIG
 # =========================
 
-img_dir = "xray_100image"  # change this
-output_json = "pneumonia_results153.json"
-output_csv = "prediction_results153date_time2.csv"
+img_dir = "input_directory"  # input directory which has xray images
+output_json = "pneumonia_results.json"
+output_csv = "prediction_resultsdate_time2.csv"
 
 output_dir = "output_xray"
 os.makedirs(output_dir, exist_ok=True)
