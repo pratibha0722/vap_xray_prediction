@@ -2,7 +2,7 @@
 
 This repository accompanies the study:
 
-**"YOLOv8-Based Automated Detection and Longitudinal Monitoring of Ventilator-Associated Pneumonia in Severe Traumatic Brain Injury Patients."**
+**"Deep Learning for Ventilator Associated Pneumonia Detection in Severe Traumatic Brain Injured Patients on Serial Chest Radiograph."**
 
 ## Repository Contents
 
