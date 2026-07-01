@@ -7,7 +7,7 @@ This repository accompanies the study:
 ## Repository Contents
 
 * **xray_result/**: Representative de-identified chest radiographs used for demonstrating model predictions.
-* **vap_prediction_results.csv**: YOLOv8 prediction results and confidence scores used for performance and longitudinal analyses.
+* **vap_prediction_results_up.csv**: YOLOv8 prediction results and confidence scores used for performance and longitudinal analyses.
 * **pneumonia_detection_with_csv2.py**: Python script used for pneumonia detection and result generation.
 
 ## Model
